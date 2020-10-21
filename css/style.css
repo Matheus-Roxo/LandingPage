@@ -28,7 +28,7 @@
     font-size: 20px;
     /*background-color: blue;*/
     padding: 16px 50px; 
-    
+    border-bottom: solid 5px #fff;
 }
 .topo nav a:hover{
     background-color: black;
